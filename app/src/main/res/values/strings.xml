@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My ApplicationMADpastpaer</string>
+    <string name="name">username</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="gamename">game name</string>
+    <string name="ADD">Add</string>
+    <string name="channel_name">channel_name</string>
+    <string name="channel_description">channel_description</string>
+    <string name="game">game</string>
+    <string name="year">Year</string>
+
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
