@@ -116,8 +116,8 @@ public class MainActivity extends AppCompatActivity {
                         Toast.makeText(MainActivity.this, "logedsucess", Toast.LENGTH_SHORT).show();
 
 
-                        String A ="a";
-                        String B ="Name";
+                        String A ="admin";
+                        String B ="pass";
                         if(user.equals(A) && pass.equals(B) ){
                             Intent i = new Intent(getApplicationContext(),AddGame.class);
                             startActivity(i);
